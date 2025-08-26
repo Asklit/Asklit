@@ -5,7 +5,7 @@
 
 <!-- Анимированная полоса с неоновым свечением -->
 <div align="center">
-  <img src="https://github.com/asklit/asklit/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github.com/Asklit/Asklit/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
 
 <!-- Неоновые карточки с анимацией ховера -->
