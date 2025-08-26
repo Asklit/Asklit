@@ -10,14 +10,18 @@
   </picture>
 </div>
 
-<h2 align="center">Мой технологический стек</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=1000&color=C770F0&center=true&width=435&lines=Мой+технологический+стек" alt="Мой технологический стек">
+</h2>
 
 <br>
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center" style="color: #2afaff; text-shadow: 0 0 10px #2afaff;">Языки программирования</h3>
+      <h3 align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=1500&pause=500&color=2AFAFF&center=true&width=250&lines=Языки+программирования" alt="Языки программирования">
+      </h3>
       <p align="center">
         <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="filter: drop-shadow(0 0 5px #2afaff);" /></a>
         <a href="https://docs.microsoft.com/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50" style="filter: drop-shadow(0 0 5px #ff2a72);" /></a>
@@ -30,7 +34,9 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center" style="color: #ff2a72; text-shadow: 0 0 10px #ff2a72;">Python экосистема</h3>
+      <h3 align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=1500&pause=500&color=FF2A72&center=true&width=250&lines=Python+экосистема" alt="Python экосистема">
+      </h3>
       <p align="center">
         <a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="50" height="50" style="filter: drop-shadow(0 0 5px #2afaff);" /></a>
         <a href="https://flask.palletsprojects.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="50" height="50" style="filter: drop-shadow(0 0 5px #ff2a72);" /></a>
@@ -43,7 +49,9 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center" style="color: #c770f0; text-shadow: 0 0 10px #c770f0;">Веб & Базы данных</h3>
+      <h3 align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=1500&pause=500&color=C770F0&center=true&width=250&lines=Веб+%26+Базы+данных" alt="Веб & Базы данных">
+      </h3>
       <p align="center">
         <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50" style="filter: drop-shadow(0 0 5px #2afaff);" /></a>
         <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50" style="filter: drop-shadow(0 0 5px #ff2a72);" /></a>
@@ -52,7 +60,9 @@
         <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50" style="filter: drop-shadow(0 0 5px #2afaff);" /></a>
         <a href="https://www.sqlite.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="50" height="50" style="filter: drop-shadow(0 0 5px #ff2a72);" /></a>
       </p>
-      <h3 align="center" style="color: #4870f0; text-shadow: 0 0 10px #4870f0;">Инструменты</h3>
+      <h3 align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=1500&pause=500&color=4870F0&center=true&width=250&lines=Инструменты" alt="Инструменты">
+      </h3>
       <p align="center">
         <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="filter: drop-shadow(0 0 5px #c770f0);" /></a>
         <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" style="filter: drop-shadow(0 0 5px #4870f0);" /></a>
@@ -66,14 +76,20 @@
 
 <br>
 
-<h2 align="center">Моя статистика</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=1000&color=C770F0&center=true&width=435&lines=Моя+статистика" alt="Моя статистика">
+</h2>
+
 <br>
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Asklit&show_icons=true&count_private=true&hide_border=true&title_color=c770f0&icon_color=4870f0&text_color=ffffff&bg_color=0d1117" alt="Asklit github stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asklit&hide_border=true&stroke=ffffff&background=0d1117&ring=c770f0&fire=c770f0&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="Asklit streak stats" />
 </div>
 
-<h2 align="center">Связь со мной</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=1000&color=C770F0&center=true&width=435&lines=Связь+со+мной" alt="Связь со мной">
+</h2>
+
 <br>
 <p align="center">
   <a href="https://t.me/forever_asklit">
