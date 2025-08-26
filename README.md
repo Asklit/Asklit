@@ -11,7 +11,7 @@
 </div>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=1000&color=C770F0&center=true&width=435&lines=Мой+технологический+стек" alt="Мой технологический стек">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=1000&color=C770F0&center=true&width=435&lines=My+Tech+Stack" alt="My Tech Stack">
 </h2>
 
 <br>
@@ -20,7 +20,7 @@
   <tr>
     <td width="33%" valign="top">
       <h3 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=1500&pause=500&color=2AFAFF&center=true&width=250&lines=Языки+программирования" alt="Языки программирования">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=1500&pause=500&color=2AFAFF&center=true&width=250&lines=Programming+Languages" alt="Programming Languages">
       </h3>
       <p align="center">
         <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="filter: drop-shadow(0 0 5px #2afaff);" /></a>
@@ -35,7 +35,7 @@
     </td>
     <td width="33%" valign="top">
       <h3 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=1500&pause=500&color=FF2A72&center=true&width=250&lines=Python+экосистема" alt="Python экосистема">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=1500&pause=500&color=FF2A72&center=true&width=250&lines=Python+Ecosystem" alt="Python Ecosystem">
       </h3>
       <p align="center">
         <a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="50" height="50" style="filter: drop-shadow(0 0 5px #2afaff);" /></a>
@@ -50,7 +50,7 @@
     </td>
     <td width="33%" valign="top">
       <h3 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=1500&pause=500&color=C770F0&center=true&width=250&lines=Веб+%26+Базы+данных" alt="Веб & Базы данных">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=1500&pause=500&color=C770F0&center=true&width=250&lines=Web+%26+Databases" alt="Web & Databases">
       </h3>
       <p align="center">
         <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50" style="filter: drop-shadow(0 0 5px #2afaff);" /></a>
@@ -61,7 +61,7 @@
         <a href="https://www.sqlite.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="50" height="50" style="filter: drop-shadow(0 0 5px #ff2a72);" /></a>
       </p>
       <h3 align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=1500&pause=500&color=4870F0&center=true&width=250&lines=Инструменты" alt="Инструменты">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=1500&pause=500&color=4870F0&center=true&width=250&lines=Tools" alt="Tools">
       </h3>
       <p align="center">
         <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="filter: drop-shadow(0 0 5px #c770f0);" /></a>
@@ -77,7 +77,7 @@
 <br>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=1000&color=C770F0&center=true&width=435&lines=Моя+статистика" alt="Моя статистика">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=1000&color=C770F0&center=true&width=435&lines=My+GitHub+Stats" alt="My GitHub Stats">
 </h2>
 
 <br>
@@ -87,7 +87,7 @@
 </div>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=1000&color=C770F0&center=true&width=435&lines=Связь+со+мной" alt="Связь со мной">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=1000&color=C770F0&center=true&width=435&lines=Connect+With+Me" alt="Connect With Me">
 </h2>
 
 <br>
