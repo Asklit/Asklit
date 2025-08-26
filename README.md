@@ -10,7 +10,7 @@
   </picture>
 </div>
 
-<h2 align="center">🚀 Мой технологический стек</h2>
+<h2 align="center">Мой технологический стек</h2>
 
 <br>
 
@@ -66,14 +66,14 @@
 
 <br>
 
-<h2 align="center">📊 Моя статистика</h2>
+<h2 align="center">Моя статистика</h2>
 <br>
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Asklit&show_icons=true&count_private=true&hide_border=true&title_color=c770f0&icon_color=4870f0&text_color=ffffff&bg_color=0d1117" alt="Asklit github stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asklit&hide_border=true&stroke=ffffff&background=0d1117&ring=c770f0&fire=c770f0&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="Asklit streak stats" />
 </div>
 
-<h2 align="center">👨‍💻 Связь со мной</h2>
+<h2 align="center">Связь со мной</h2>
 <br>
 <p align="center">
   <a href="https://t.me/forever_asklit">
