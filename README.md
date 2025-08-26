@@ -14,58 +14,57 @@
 
 <br>
 
-<h3 align="center" style="color: #2afaff; text-shadow: 0 0 10px #2afaff;">💻 Языки программирования</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=2afaff" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&color=ff2a72" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=c770f0" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=4870f0" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=2afaff" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&color=ff2a72" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=c770f0" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&color=4870f0" />
-</p>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center" style="color: #2afaff; text-shadow: 0 0 10px #2afaff;">Языки программирования</h3>
+      <p align="center">
+        <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="filter: drop-shadow(0 0 5px #2afaff);" /></a>
+        <a href="https://docs.microsoft.com/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50" style="filter: drop-shadow(0 0 5px #ff2a72);" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="filter: drop-shadow(0 0 5px #c770f0);" /></a>
+        <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50" style="filter: drop-shadow(0 0 5px #4870f0);" /></a>
+        <a href="https://www.w3.org/CSS/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50" style="filter: drop-shadow(0 0 5px #2afaff);" /></a>
+        <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" style="filter: drop-shadow(0 0 5px #ff2a72);" /></a>
+        <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" style="filter: drop-shadow(0 0 5px #c770f0);" /></a>
+        <a href="https://www.r-project.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="50" height="50" style="filter: drop-shadow(0 0 5px #4870f0);" /></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center" style="color: #ff2a72; text-shadow: 0 0 10px #ff2a72;">Python экосистема</h3>
+      <p align="center">
+        <a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="50" height="50" style="filter: drop-shadow(0 0 5px #2afaff);" /></a>
+        <a href="https://flask.palletsprojects.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="50" height="50" style="filter: drop-shadow(0 0 5px #ff2a72);" /></a>
+        <a href="https://www.sqlalchemy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="50" height="50" style="filter: drop-shadow(0 0 5px #c770f0);" /></a>
+        <a href="https://www.qt.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="50" height="50" style="filter: drop-shadow(0 0 5px #4870f0);" /></a>
+        <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50" style="filter: drop-shadow(0 0 5px #2afaff);" /></a>
+        <a href="https://numpy.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50" style="filter: drop-shadow(0 0 5px #ff2a72);" /></a>
+        <a href="https://matplotlib.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="50" height="50" style="filter: drop-shadow(0 0 5px #4870f0);" /></a>
+        <a href="https://docs.pytest.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" alt="pytest" width="50" height="50" style="filter: drop-shadow(0 0 5px #ff2a72);" /></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center" style="color: #c770f0; text-shadow: 0 0 10px #c770f0;">Веб & Базы данных</h3>
+      <p align="center">
+        <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50" style="filter: drop-shadow(0 0 5px #2afaff);" /></a>
+        <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="50" height="50" style="filter: drop-shadow(0 0 5px #ff2a72);" /></a>
+        <a href="https://styled-components.com/"><img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" alt="styled-components" width="50" height="50" style="filter: drop-shadow(0 0 5px #c770f0);" /></a>
+        <a href="https://github.com/axios/axios"><img src="https://axios-http.com/assets/logo.svg" alt="axios" width="50" height="50" style="filter: drop-shadow(0 0 5px #4870f0);" /></a>
+        <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50" style="filter: drop-shadow(0 0 5px #2afaff);" /></a>
+        <a href="https://www.sqlite.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="50" height="50" style="filter: drop-shadow(0 0 5px #ff2a72);" /></a>
+      </p>
+      <h3 align="center" style="color: #4870f0; text-shadow: 0 0 10px #4870f0;">Инструменты</h3>
+      <p align="center">
+        <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="filter: drop-shadow(0 0 5px #c770f0);" /></a>
+        <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" style="filter: drop-shadow(0 0 5px #4870f0);" /></a>
+        <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" style="filter: drop-shadow(0 0 5px #2afaff);" /></a>
+        <a href="https://colab.research.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1200px-Google_Colaboratory_SVG_Logo.svg.png" alt="colab" width="40" height="40" style="filter: drop-shadow(0 0 5px #ff2a72);" /></a>
+        <a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40" style="filter: drop-shadow(0 0 5px #c770f0);" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
-
-<!-- Python фреймворки и библиотеки -->
-<h3 align="center" style="color: #ff2a72; text-shadow: 0 0 10px #ff2a72;">🐍 Python экосистема</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&color=2afaff" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&color=ff2a72" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white&color=c770f0" />
-  <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white&color=4870f0" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&color=2afaff" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&color=ff2a72" />
-  <img src="https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=pygame&logoColor=white&color=c770f0" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white&color=4870f0" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&color=2afaff" />
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white&color=ff2a72" />
-</p>
-
-<br>
-
-<!-- Веб-технологии -->
-<h3 align="center" style="color: #c770f0; text-shadow: 0 0 10px #c770f0;">🌐 Веб-разработка</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=2afaff" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&color=ff2a72" />
-  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white&color=c770f0" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white&color=4870f0" />
-</p>
-
-<br>
-
-<!-- Базы данных и инструменты -->
-<h3 align="center" style="color: #4870f0; text-shadow: 0 0 10px #4870f0;">🗄️ Базы данных и инструменты</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&color=2afaff" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white&color=ff2a72" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=c770f0" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=4870f0" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white&color=2afaff" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=ff2a72" />
-</p>
 
 <h2 align="center">📊 Моя статистика</h2>
 <br>
@@ -83,9 +82,6 @@
   <a href="mailto:asklits@yandex.ru">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=ff2a72" />
   </a>
-<!--   <a href="https://www.linkedin.com/in/your_profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=c770f0" />
-  </a> -->
 </p>
 
 <br>
