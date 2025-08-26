@@ -1,6 +1,6 @@
 <!-- Вставьте это в начало вашего README.md -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=c770f0&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&pause=1000&lines=Привет,+Мир!;Меня+зовут+[Ваше+Имя];Я+[Ваша+Профессия];Добро+пожаловать!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&pause=1000&color=C770F0&center=true&width=435&lines=Hello+there.+I'm+Alexander+Khanzhin+%3A);Welcome+to+my+profile">
 </h1>
 
 <!-- Анимированная полоса с неоновым свечением -->
