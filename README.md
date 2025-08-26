@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&pause=1000&color=C770F0&center=true&width=435&lines=Hello+there.+I'm+Alexander+Khanzhin+%3A);Welcome+to+my+profile">
 </h1>
 
-<!-- Анимированная полоса с неоновым свечением -->
-<div align="center">
-  <img src="https://github.com/Asklit/Asklit/blob/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
-
 <!-- Неоновые карточки с анимацией ховера -->
 <h2 align="center">🛠️ Мой стек технологий</h2>
 <br>
@@ -53,8 +48,8 @@
 <!-- Имитация неоновой вывески в конце -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asklit/Asklit/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asklit/Asklit/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Asklit/Asklit/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asklit/Asklit/gh-pages/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asklit/Asklit/gh-pages/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Asklit/Asklit/gh-pages/github-snake.svg" width="100%" />
   </picture>
 </div>
