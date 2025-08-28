@@ -28,8 +28,8 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="filter: drop-shadow(0 0 5px #c770f0);" /></a>
         <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50" style="filter: drop-shadow(0 0 5px #4870f0);" /></a>
         <a href="https://www.w3.org/CSS/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50" style="filter: drop-shadow(0 0 5px #2afaff);" /></a>
-        <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" style="filter: drop-shadow(0 0 5px #ff2a72);" /></a>
-        <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" style="filter: drop-shadow(0 0 5px #c770f0);" /></a>
+<!--         <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" style="filter: drop-shadow(0 0 5px #ff2a72);" /></a>
+        <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" style="filter: drop-shadow(0 0 5px #c770f0);" /></a> -->
         <a href="https://www.r-project.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="50" height="50" style="filter: drop-shadow(0 0 5px #4870f0);" /></a>
       </p>
     </td>
