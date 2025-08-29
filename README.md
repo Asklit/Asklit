@@ -95,7 +95,7 @@
   <a href="https://t.me/forever_asklit">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=2afaff" />
   </a>
-  <a href="mailto:asklits@yandex.ru">
+  <a href="mailto:khanzhin.alexander@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=ff2a72" />
   </a>
 </p>
