@@ -74,9 +74,9 @@
   </tr>
 </table>
 
-<br>
+<!-- <br> -->
 
-<h2 align="center">
+<!-- <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=1000&color=C770F0&center=true&width=435&lines=My+GitHub+Stats" alt="My GitHub Stats">
 </h2>
 
@@ -84,7 +84,7 @@
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Asklit&show_icons=true&count_private=true&hide_border=true&title_color=c770f0&icon_color=4870f0&text_color=ffffff&bg_color=0d1117" alt="Asklit github stats" />
 <!--   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asklit&hide_border=true&stroke=ffffff&background=0d1117&ring=c770f0&fire=c770f0&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="Asklit streak stats" /> -->
-</div>
+<!-- </div> --> -->
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=1000&color=C770F0&center=true&width=435&lines=Connect+With+Me" alt="Connect With Me">
@@ -95,9 +95,9 @@
   <a href="https://t.me/forever_asklit">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=2afaff" />
   </a>
-  <a href="mailto:khanzhin.alexander@gmail.com">
+  <!-- <a href="mailto:khanzhin.alexander@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=ff2a72" />
-  </a>
+  </a> -->
 </p>
 
 <br>
